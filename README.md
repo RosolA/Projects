@@ -1,1 +1,1 @@
-# CSCapstone
+# Projects
